@@ -1,4 +1,8 @@
-<h1 align="center" style="font-size: 3.5rem; font-weight: 800; background: linear-gradient(135deg, #00F0FF, #FF007F, #FFD700); -webkit-background-clip: text; background-clip: text; color: transparent; text-shadow: 0 0 12px rgba(0,240,255,0.4); margin: 0.5rem 0; letter-spacing: -0.02em;">ALVIA YOVAS S</h1>
+<!-- Animated Name Header (Top) -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=40&duration=3000&pause=500&color=00F0FF&center=true&vCenter=true&width=600&height=80&lines=ALVIA+YOVAS+S" alt="Animated Name Header" />
+</p>
+
 <!--- Hero Section --->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=36&duration=2800&pause=500&color=00F0FF&center=true&vCenter=true&width=800&lines=Alvia+Yovas+S;Full+Stack+Developer;AI+%26+Generative+AI+Explorer;Building+the+Future+with+Code" alt="Typing animation" />
@@ -15,9 +19,7 @@
 </p>
 
 <h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28" /> 
-  About Me 
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28" />
+  About Me
 </h2>
 
 <p align="center">
@@ -30,9 +32,7 @@
 <br />
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="28" />
   Tech Stack & Tools
-  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="28" />
 </h2>
 
 <p align="center">
@@ -213,8 +213,4 @@
   <a href="https://www.linkedin.com/in/alviayovas/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" /></a>&nbsp;&nbsp;
   <a href="https://instagram.com/alvia_yovas"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117" /></a>&nbsp;&nbsp;
   <a href="https://github.com/alviayovas-cell"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" /></a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Alvia%20Yovas%20S&fontSize=20&fontColor=FFFFFF&animation=fadeIn" width="100%" />
 </p>
