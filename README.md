@@ -1,36 +1,4 @@
-<div align="center">
-  <h1 style="
-    font-size: 3.5rem;
-    font-weight: 800;
-    background: linear-gradient(135deg, #00F0FF 0%, #FF007F 50%, #FFD700 100%);
-    background-size: 200% auto;
-    -webkit-background-clip: text;
-    background-clip: text;
-    color: transparent;
-    animation: shine 3s ease-in-out infinite, fadeInUp 1.2s ease-out;
-    margin: 0.5rem 0;
-    letter-spacing: -0.02em;
-  ">
-    ALVIA YOVAS S
-  </h1>
-  <style>
-    @keyframes shine {
-      0% { background-position: 0% 50%; }
-      50% { background-position: 100% 50%; }
-      100% { background-position: 0% 50%; }
-    }
-    @keyframes fadeInUp {
-      from {
-        opacity: 0;
-        transform: translateY(30px);
-      }
-      to {
-        opacity: 1;
-        transform: translateY(0);
-      }
-    }
-  </style>
-</div>
+<h1 align="center" style="font-size: 3.5rem; font-weight: 800; background: linear-gradient(135deg, #00F0FF, #FF007F, #FFD700); -webkit-background-clip: text; background-clip: text; color: transparent; text-shadow: 0 0 12px rgba(0,240,255,0.4); margin: 0.5rem 0; letter-spacing: -0.02em;">ALVIA YOVAS S</h1>
 <!--- Hero Section --->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=36&duration=2800&pause=500&color=00F0FF&center=true&vCenter=true&width=800&lines=Alvia+Yovas+S;Full+Stack+Developer;AI+%26+Generative+AI+Explorer;Building+the+Future+with+Code" alt="Typing animation" />
